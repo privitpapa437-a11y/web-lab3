@@ -1,0 +1,25 @@
+{
+  "name": "web-lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privitpapa437-a11y/web-lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/privitpapa437-a11y/web-lab3/issues"
+  },
+  "homepage": "https://github.com/privitpapa437-a11y/web-lab3#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
